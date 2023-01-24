@@ -3,6 +3,8 @@
 
 <h1 align="center">Platane</h1>
 
+</div>
+
 # About the project
 
 <p>
