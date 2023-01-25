@@ -1,11 +1,19 @@
 <div align="center">
-<img src="./images/platane-removebg-preview.png" alt="Logo" width="200" height="200">
+<img src="./images/logo.png" alt="Logo" width="200" height="200">
 
 <h1 align="center">Platane</h1>
 
+<br/>
+
+<a href="https://github.com/PlataneDev/platane/wiki">Wiki</a>
+·
+<a href="#">Documentation</a>
+·
+<a href="#">Download</a>
+
 </div>
 
-# About the project
+## About the project
 
 <p>
 
@@ -13,7 +21,7 @@ Platane....
 
 </p>
 
-# Getting started
+## Getting started
 
 Clone the repository :
 
