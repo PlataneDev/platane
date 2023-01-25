@@ -14,13 +14,11 @@ The entire project must be **written in english** (code & docs). Only the "manag
 
 ## Git commit
 
-A commit's message begins with an _gitmoji_ corresponding to the work being done. There follows an explanation in a few words of the work done. (try to specify which files have been modify).
+A commit's message begins with an _[gitmoji](https://gitmoji.dev/)_ corresponding to the work being done. There follows an explanation in a few words of the work done. (try to specify which files have been modify).
 
 ```
 📝 update README => add image and title
 ```
-
-[gitmoji](https://gitmoji.dev/)
 
 ## Kotlin samples
 
