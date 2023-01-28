@@ -11,16 +11,22 @@ _par ROCHELLE Hugo, FILLOT Romain, SABATIER Audric, MIELCAREK Félix et DE LA FU
 
 <br>
 
-_**4 pages max sans compter la page de garde**_
+```
+> 4 pages max sans compter la page de garde
+```
 
-## L'idée du projet
+## Qu'est ce que Platane ?
 
-- _choix du secteur_
-- _explication du projet_
-- _au moins 5 fonctionnalités "principales" + quelques secondaires_
+```
+> choix du secteur
+> explication du projet
+> au moins 5 fonctionnalités "principales" + quelques secondaires
+```
 
-## Analyse du projet
+## Analyse du projet 
 
-- _analyse de l'existante => concurrence ?_
-- _analyse des besoins et du marché_
-- _identifier forces/faiblesses + les risques => **SWOT ?**_
+```
+> analyse de l'existante => concurrence ?
+> analyse des besoins et du marché
+> identifier forces/faiblesses + les risques => SWOT ?
+```
