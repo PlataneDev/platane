@@ -30,3 +30,11 @@ _par ROCHELLE Hugo, FILLOT Romain, SABATIER Audric, MIELCAREK Félix et DE LA FU
 > analyse des besoins et du marché
 > identifier forces/faiblesses + les risques => SWOT ?
 ```
+
+## Pourcentage de participation
+
+- ROCHELLE Hugo : 20%
+- FILLOT Romain : 20%
+- SABATIER Audric : 20%
+- MIELCAREK Félix : 20%
+- DE LA FUENTE Axel : 20%
