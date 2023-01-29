@@ -1,8 +1,7 @@
 <div align="center">
-<img src="./images/logo.png" alt="Logo" width="200" height="200">
+<img src="./images/banner.png" alt="Logo">
 
-<h1 align="center">Platane</h1>
-
+<br/>
 <br/>
 
 <a href="https://github.com/PlataneDev/platane/wiki">Wiki</a>
