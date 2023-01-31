@@ -57,7 +57,37 @@ Pour cela, deux utilisateurs ayant créer un compte sur notre application peuven
 
 ## Analyse de notre application
 
-*SWOT*
+Notre projet tente de s'implanter dans sur un marché dit *"océan rouge"*. Afin consolider notre plan stratégique et garder une longueur d'avance sur les tendances du marché, il nous faut analyser nos forces, nos faiblesses, opportunités et menaces. Pour cela nous avons réaliser un **SWOT** _(Strengths, Weaknesses, Opportunities and Threats)_, nous permettant de mieu appréhender la marché vers lequel Platane va se tourner.
+
+#### Forces :
+
+
+
+- Pas de pub
+
+- Open Source
+
+- Centralisation des fonctionnalités dans une seule application
+
+- Lien fort entre les utilisateurs
+
+- Proposé un réseau social complétement gratuit (pas de revente de données personelles)
+
+#### Faiblesses :
+
+- Pas de visibilité
+
+- Incompatibilité iOS
+
+#### Opportunités :
+
+- Augmentation des voyages à travers le monde
+
+- Essor des réseaux sociaux
+
+#### Menaces :
+
+- Hyper-concurrence (nouvelles applications sur le marché très régulièrement)
 
 # Pourcentage de participation
 
