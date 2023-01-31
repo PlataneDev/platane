@@ -33,7 +33,7 @@ Le secteur applicatif que nous avons choisi est celui des **réseaux sociaux** d
 
 ## Analyse du marché
 
-Nous entrons donc sur un **marché de service** puisque le produit est une application mobile. Ce **marché est de masse** avec des milliards de chiffres d'affaires en jeu pour les principaux acteurs, sa **dimension géographique est international** avec 53% de la population mondiale qui utilise les réseaux sociaux, ce chiffre ne cessant d'augmenter chaque année.
+Nous entrons donc sur un **marché de service** puisque le produit est une application mobile. Ce **marché est de masse** avec des milliards de chiffres d'affaires en jeu pour les principaux acteurs, sa **dimension géographique est internationale** avec 53% de la population mondiale qui utilise les réseaux sociaux, ce chiffre ne cessant d'augmenter chaque année.
 
 Plus globalement, nous nous apprétons donc à entrer sur un marché pouvant être défini comme un **"océan rouge"**, c'est à dire un marché connus et où l'intensité concurrentielle va être le frein à nos opportunités de croissance. 
 Notre stratégie ne va pas être accès sur le fait d'attirer une nouvelle clientèle mais plutôt sur le fait d'**acquérir des parts de marché de nos concurrents**. 
@@ -66,7 +66,12 @@ Les principales fonctionnalités que nous voulons mettre en place représentent 
 
 ### Fonctionnalités secondaires
 
-*couleur pour type relation, groupes, image de profil photo ou en 3d*
+Nous avons également penser à plusieurs fonctionnalités secondaires pour notre application :
+* La possibilité de choisir une couleur par type de relation ce qui permet aux utilisateurs de reconnaitre en un coup d'œil le type de relation avec la personne.
+* La fonctionnalité de créer des groupes entre plusieurs utilisateurs, ce qui simplifie la communication et le partage d'informations avec des plus larges groupes de personnes comme la famille ou les amis.
+* La possibilité d'envoyer une vibration aux personnes possedant une montre connectée reliée à l'application, pour rappeler le contact physique même à distance.
+* La possibilité d'ajouter une photo de profil ainsi qu'une photo de profil en 3 dimensions, comme avec le memoji d'Apple. 
+
 
 ## Analyse de notre application
 
