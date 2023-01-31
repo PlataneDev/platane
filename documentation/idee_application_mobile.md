@@ -91,13 +91,17 @@ Nous souhaitons que l'interface utilisateur soit la plus simple et la plus agré
 
 - Lien fort entre les utilisateurs
 
-- Proposé un réseau social complétement gratuit (pas de revente de données personelles)
+- Proposer un réseau social complétement gratuit (pas de revente de données personelles)
+
+- Concept innovant
 
 #### Faiblesses :
 
 - Pas de visibilité
 
 - Incompatibilité iOS
+
+- Difficulté à inciter les utilisateurs à utiliser un nouveau réseaux social
 
 #### Opportunités :
 
