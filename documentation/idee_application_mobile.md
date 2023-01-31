@@ -15,6 +15,42 @@ _par ROCHELLE Hugo, FILLOT Romain, SABATIER Audric, MIELCAREK Félix et DE LA FU
 > 4 pages max sans compter la page de garde
 ```
 
+
+
+
+# Analyse du secteur applicatif et du marché
+
+## Le secteur applicatif
+
+Le secteur applicatif que nous avons choisi est celui des **réseaux sociaux** disponibles sur mobile. Il existe des réseaux sociaux sur énormément de thème, ils peuvent permettre de connecter les personnes d'une même famille, d'un réseau d'amis, d'un réseau de travail, et bien d'autres encore. Suivant le thème, il est aussi bien possible de relier de parfaits inconnus que des proches.
+
+## Le marché
+
+Nous entrons donc sur un **marché de service** puisque le produit est une application mobile. Ce **marché est de masse** avec des milliards de chiffres d'affaires en jeu pour les principaux acteurs, sa **dimension géographique est international** avec 53% de la population mondiale qui utilise les réseaux sociaux, ce chiffre ne cessant d'augmenter chaque année.
+
+Plus globalement, nous nous apprétons donc à entrer sur un marché pouvant être défini comme un **"océan rouge"**, c'est à dire un marché connus et où l'intensité concurrentielle va être le frein à nos opportunités de croissance. 
+Notre stratégie ne va pas être accès sur le fait d'attirer une nouvelle clientèle mais plutôt sur le fait d'**acquérir des parts de marché de nos concurrents**. 
+Pour cela nous ne pouvons pas employer une stratégie de domination par les coûts puisque la majorité des réseaux sociaux sont gratuits, nous allons donc employer une **stratégie de différentiation**.
+
+
+# Description de notre projet
+
+## L'idée générale
+
+## Les fonctionnalités
+
+### Principales fonctionnalités
+
+### Fonctionnalités secondaires
+
+## Analyse de notre application
+
+*SWOT*
+
+
+
+
+
 ## Qu'est ce que Platane ?
 
 ```
