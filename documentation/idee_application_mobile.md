@@ -15,8 +15,15 @@ _par ROCHELLE Hugo, FILLOT Romain, SABATIER Audric, MIELCAREK Félix et DE LA FU
 > 4 pages max sans compter la page de garde
 ```
 
+```
+> choix du secteur
+> explication du projet
+> au moins 5 fonctionnalités "principales" + quelques secondaires
 
-
+> analyse de l'existante => concurrence ?
+> analyse des besoins et du marché
+> identifier forces/faiblesses + les risques => SWOT ?
+```
 
 # Analyse du secteur applicatif et du marché
 
@@ -65,31 +72,7 @@ Les principales fonctionnalités que nous voulons mettre en place représentent 
 
 *SWOT*
 
-
-
-
-
-## Qu'est ce que Platane ?
-
-```
-> choix du secteur
-> explication du projet
-> au moins 5 fonctionnalités "principales" + quelques secondaires
-```
-
-Ces dernières années de nouvelles applications aux concepts divers et variés émergent chaque années et obtiennent de plus en plus d'utilisateurs et de téléchargements. Toutes les idées ont leur place et dû à l'universalité du public, il est possible d'obtenir une large audience en très peu de temps.
-
-
-
-## Analyse du projet 
-
-```
-> analyse de l'existante => concurrence ?
-> analyse des besoins et du marché
-> identifier forces/faiblesses + les risques => SWOT ?
-```
-
-## Pourcentage de participation
+# Pourcentage de participation
 
 - ROCHELLE Hugo : 20%
 - FILLOT Romain : 20%
