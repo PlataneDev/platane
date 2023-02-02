@@ -31,18 +31,18 @@ Our goal was to find a way to keep a **strong social bond** with loved ones in t
 # Features
 
 The main functionalities that we want to put in place also represent the different sections of each space:
-* an integrated messaging system allowing you to converse
-* a common photo gallery that can keep souvenir photos in one place
-* a calendar that can be synchronized with that of the user's phone, events made together or the date of future reunions, for example, can be placed there
-* a film library containing the cinematographic moments shared by the 2 people, it can use the IMDb API to retrieve the names of the films and series
-* a playlist allowing songs to be discovered, it could be linked via the Spotify API
-* a map of the world showing the locations of the 2 users as well as the distance separating them.
+* an integrated **messaging system** allowing you to converse
+* a shared **photo gallery** that can keep souvenir photos in one place
+* a **calendar** that can be synchronized with that of the user's phone, events made together or the date of future reunions, for example, can be placed there
+* a **film library** containing the cinematographic moments shared by the 2 people, it can use the IMDb API to retrieve the names of the films and series
+* a **playlist** allowing songs to be discovered, it could be linked via the Spotify API
+* a **map of the world** showing the locations** of the 2 users as well as the distance separating them.
 
 We also thought of several secondary features for our application:
-* the possibility of choosing a color by type of relationship, which allows users to recognize at a glance the links that unite them to their contacts
-* the functionality of creating groups between multiple users, which simplifies communication and information sharing with larger groups of people such as family or groups of friends.
-* the possibility of sending a vibration to people with a connected watch connected to the application. This fun feature is intended to remind physical contact even from a distance and to show that you are thinking of the person concerned in an unexpected way.
-* the ability to add a profile photo as well as a 3D profile photo, as with Apple's Memoji.
+* the possibility of choosing a **color by type of relationship**, which allows users to recognize at a glance the links that unite them to their contacts
+* the functionality of creating **groups** between multiple users, which simplifies communication and information sharing with larger groups of people such as family or groups of friends.
+* the possibility of sending a **vibration** to people with a connected watch connected to the application. This fun feature is intended to remind physical contact even from a distance and to show that you are thinking of the person concerned in an unexpected way.
+* the ability to add a **profile photo** as well as a 3D profile photo, as with Apple's Memoji.
 
 # Sketches
 
