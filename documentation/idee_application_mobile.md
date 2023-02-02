@@ -38,6 +38,10 @@ Le deuxième constat porte sur le fonctionnement des autres réseaux sociaux, en
 Notre objectif était de trouver un moyen de garder un **lien social fort** avec ses proches dans le contexte d'une relation à distance. Pour cela nous avons imaginé une application permettant de créer un espace partagé entre 2 utilisateurs, celui-ci leur fournissant un **sentiment de proximité et de partage**.
 Cette espace commun est composé de plusieurs rubriques, chacune a pour rôle de **rassembler un contenu numérique** reliant les 2 personnes. Ce fonctionnement à pour objectif de vraiment mettre en avant la complicité et l'intimité, les différents types de relations étant bien séparés.
 
+### Premières maquettes
+
+![Image des premières maquettes](../images/sketch-v1.png)
+
 ## Les fonctionnalités
 
 ### Principales fonctionnalités
