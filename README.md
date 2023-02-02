@@ -55,3 +55,8 @@ Clone the repository :
 ```
 git clone https://github.com/PlataneDev/platane.git
 ```
+
+# Contact us
+
+* Platane developers : [platane.dev.contact@gmail.com]()
+* Sorelle Audrey Kamkuimo : [sorelleaudrey1_kamkuimokengne@uqac.ca]()
