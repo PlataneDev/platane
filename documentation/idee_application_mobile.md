@@ -6,7 +6,8 @@
 
 _par ROCHELLE Hugo, FILLOT Romain, SABATIER Audric, MIELCAREK Félix et DE LA FUENTE Axel_
 
-<img src="../images/logo-title-black.png" alt="Logo" height="200">
+![banner](../images/banner.png)
+  
 </div>
 
 <br>
