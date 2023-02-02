@@ -11,20 +11,6 @@ _par ROCHELLE Hugo, FILLOT Romain, SABATIER Audric, MIELCAREK Félix et DE LA FU
 
 <br>
 
-```
-> 4 pages max sans compter la page de garde
-```
-
-```
-> choix du secteur
-> explication du projet
-> au moins 5 fonctionnalités "principales" + quelques secondaires
-
-> analyse de l'existante => concurrence ?
-> analyse des besoins et du marché
-> identifier forces/faiblesses + les risques => SWOT ?
-```
-
 # Analyse du secteur applicatif et du marché
 
 ## Le secteur applicatif
@@ -79,41 +65,21 @@ Pour consolider notre plan stratégique et garder une longueur d'avance sur les 
 
 #### Forces :
 
-Nous souhaitons que l'interface utilisateur soit la plus simple et la plus agréable possible. Pour cela, en plus d'un travail important concerant le design, notre application ne difusera aucune annonce de quelque sorte que se soit. 
+Nous souhaitons que l'interface utilisateur soit la plus simple et le plus agréable possible. Pour cela, en plus d'un travail important concernant le design, notre application ne diffusera aucune annonce de quelque sorte que ce soit. De plus, afin d'avoir la meilleure expérience possible pour les utilisateurs sur notre réseau social, nous allons centraliser toutes les grandes fonctionnalités que proposent les autres réseaux au sein d'une seule et unique application. De plus, Platane est différent des autres réseaux sociaux, car il ne permet que de rester en contact avec ses amis les plus proches, ce qui permet de créer un lien très fort entre les utilisateurs.
 
-...
-
-- Pas de pub
-
-- Open Source
-
-- Centralisation des fonctionnalités dans une seule application
-
-- Lien fort entre les utilisateurs
-
-- Proposer un réseau social complétement gratuit (pas de revente de données personelles)
-
-- Concept innovant
+Pour ce qui est autour de l'application, nous prévoyons d'être 100% transparent avec nos utilisateurs. En effet, notre projet est Open Source (licence MIT), ce qui permet à quiconque de récupérer les codes de l'application pour un usage personnel. De plus, nous ne revendons aucune donnée personnelle de nos utilisateurs, et leurs supressions définitives de nos serveurs est possible à la demande.
 
 #### Faiblesses :
 
-- Pas de visibilité
-
-- Incompatibilité iOS
-
-- Difficulté à inciter les utilisateurs à utiliser un nouveau réseaux social
+La principale faiblesse de notre projet réside dans sa visibilité. En effet, face à l'attraction des géants du marché _(Facebook, Instagram, Snapchat...)_, il est très compliqué d'inciter les utilisateurs à utiliser un nouveau réseau social. Il va donc être difficile de se créer une base solide d'utilisateurs sur Platane. De plus, l'exclusivité Android réduit nos chances d'attirer des utilisateurs. Contrairement à nos concurrents, notre application sera incompatible avec iOS, les ordinateurs et les navigateurs web.
 
 #### Opportunités :
 
-- Augmentation des voyages à travers le monde
-
-- Essor des réseaux sociaux
+Nous avons tout de même des opportunités que nous pouvons saisir avec un tel projet. Tout d'abord, nous sommes dans une époque où les voyages à travers le monde se font de plus en plus fréquemment et par plus en plus de personnes. Que ce soit pour les études, le travail ou le tourisme. En effet, suite à la fin du Covid-19, entre 2021 et 2022 on estime une augmentation de 182% des voyages à travers le monde. Le secteur des réseaux sociaux est en plein essor, et notre projet vient parfaitement se placer dans les deux cas. Proposé un réseau social, qui permet de garder un contact fort avec les personnes loin de nous.
 
 #### Menaces :
 
-- Essor des réseaux sociaux
-
-- Hyper-concurrence? (nouvelles applications sur le marché très régulièrement)
+La menace à laquelle nous devons faire face est l'hyper-concurrence. Dans le secteur des réseaux sociaux, mais surtout des applications mobiles, la concurrence est encore plus rude qu'ailleurs, cela est dû à la sortie quotidienne de milliers d'applications.
 
 # Pourcentage de participation
 
