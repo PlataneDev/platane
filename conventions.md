@@ -10,7 +10,7 @@ The entire project must be **written in english** (code & docs). Only the "manag
 
 - **Methods**, **functions** and **variables** use the `lowerCamelCase` notation.
 
-- `@Composable` **functions**  use the `UpperCamelCase` notation.
+- **`@Composable` functions**  use the `UpperCamelCase` notation.
 
 - **const** variables use the `UPPERCASE_UNDERSCORE_SEPARATED` notation.
 
